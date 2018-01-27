@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">AndroidLabs1</string>
     <string name="hello_message">hello!</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="login_name"> प्रयोक्ता नाम</string>
+    <string name="password">पारण शब्द</string>
 </resources>
